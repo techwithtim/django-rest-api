@@ -1,0 +1,4 @@
+django
+djangorestframework
+environs
+mysqlclient
